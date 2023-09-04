@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Firebase
+//import Firebase
 
 
 struct Database {
@@ -17,7 +17,7 @@ struct Database {
 
     init() {
 
-        FirebaseApp.configure()
+//        FirebaseApp.configure()
     }
 
 }

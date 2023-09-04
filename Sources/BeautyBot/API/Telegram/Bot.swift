@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import TelegramBotSDK
+//import TelegramBotSDK
 
 // MARK: - User Bot
 

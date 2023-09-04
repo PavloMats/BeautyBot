@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import TelegramBotSDK
+//import TelegramBotSDK
 
 /// Default telegram bot for any user. Most likely like **Bot** with some validation of user, he should have some CRUDs to interact with the bot
 class AdminBot: Bot {
